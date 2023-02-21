@@ -1,0 +1,4 @@
+            JavaScript: métodos de array
+----------------------------------------------------------------------
+01 - ForEach:funcap para cada elemento
+        async | get | await  

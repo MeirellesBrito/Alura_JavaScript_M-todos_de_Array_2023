@@ -19,8 +19,11 @@
 
 04 - Sort:ordenando a lista
         Como funciona o sort
+        Aprendemos como funciona o método de ordenação de array sort;
+        Ordenamos os livros da aplicação por preço;
+        Melhoramos a experiência do usuário da aplicação, aplicando uma opacidade nos livros indisponíveis.
 
-
+05 - 
 
 
 

@@ -12,11 +12,13 @@
         Aplicamos um desconto através do método map nos preços de cada livro do nosso projeto e entendemos a diferença entre os métodos forEach e map.
 
 03 - Filter:aplicando diferentes filtros
-        Filter | document.gerElementById | 
+        Filter✔️  | document.gerElementById | 
+        Realizamos testes na documentação oficial do JavaScript para entender como o método filter funciona;
+        Atribuímos um evento de click no botão para filtrar os livros por categoria através do filter;
+        Exibimos os livros filtrados por categoria e que estejam disponíveis.
 
-
-
-
+04 - Sort:ordenando a lista
+        Como funciona o sort
 
 
 

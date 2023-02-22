@@ -1,4 +1,11 @@
             JavaScript: métodos de array
 ----------------------------------------------------------------------
 01 - ForEach:funcap para cada elemento
-        async | get | await  
+        async✔️ | get | await✔️   | forEach ✔️ 
+        Carregamos o projeto base que vamos usar nesse treinamento;
+        Realizamos o uma requisição para pegar todos os livros da API de exemplo;
+        Entendemos que o método forEach é bastante parecido com o for antigo, basicamente faz o mesmo que ele, mas numa forma bem mais elegante;
+        Exibimos os livros da API manipulando o DOM através do método forEach.
+
+02 - Map:novo array modificado
+        

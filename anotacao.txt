@@ -23,7 +23,7 @@
         Ordenamos os livros da aplicação por preço;
         Melhoramos a experiência do usuário da aplicação, aplicando uma opacidade nos livros indisponíveis.
 
-05 - 
+05 - Reduce: um unico valor
 
 
 

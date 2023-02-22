@@ -24,7 +24,8 @@
         Melhoramos a experiência do usuário da aplicação, aplicando uma opacidade nos livros indisponíveis.
 
 05 - Reduce: um unico valor
-
+        Manipulamos o DOM para exibir a sessão de valor total dos livros disponíveis apenas quando o botão de filtrar livros disponíveis fosse clicado;
+        Utilizamos o método reduce para descobrir o valor total de todos livros disponíveis.
 
 
 

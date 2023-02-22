@@ -9,16 +9,3 @@ async function getBuscarLIvrosDAAPI(){
     let livrosComDesconto = aplicarDesconto(livros)
     exibirOsLivrosNaTela(livrosComDesconto)
 };
-
-
- 
-
-
-
-
-
-
-
-
-
-
